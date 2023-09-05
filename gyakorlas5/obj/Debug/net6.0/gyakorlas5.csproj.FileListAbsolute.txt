@@ -1,0 +1,15 @@
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\bin\Debug\net6.0\gyakorlas5.exe
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\bin\Debug\net6.0\gyakorlas5.deps.json
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\bin\Debug\net6.0\gyakorlas5.runtimeconfig.json
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\bin\Debug\net6.0\gyakorlas5.dll
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\bin\Debug\net6.0\gyakorlas5.pdb
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\obj\Debug\net6.0\gyakorlas5.csproj.AssemblyReference.cache
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\obj\Debug\net6.0\gyakorlas5.GeneratedMSBuildEditorConfig.editorconfig
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\obj\Debug\net6.0\gyakorlas5.AssemblyInfoInputs.cache
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\obj\Debug\net6.0\gyakorlas5.AssemblyInfo.cs
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\obj\Debug\net6.0\gyakorlas5.csproj.CoreCompileInputs.cache
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\obj\Debug\net6.0\gyakorlas5.dll
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\obj\Debug\net6.0\refint\gyakorlas5.dll
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\obj\Debug\net6.0\gyakorlas5.pdb
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\obj\Debug\net6.0\gyakorlas5.genruntimeconfig.cache
+P:\Codecool\gyakorlas\gyakorlas5\gyakorlas5\obj\Debug\net6.0\ref\gyakorlas5.dll

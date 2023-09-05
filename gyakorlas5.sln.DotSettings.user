@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=31d63f8d_002D5f13_002D47e3_002Dada2_002Dffc002df12bb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BorrowItem_ShouldNotExceedBorrowCapacity_Test #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2308A12E-A0CA-4519-9902-7FF1AC363A2E::net6.0::LibraryTest.Tests.BorrowItem_ShouldNotExceedBorrowCapacity_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2308A12E-A0CA-4519-9902-7FF1AC363A2E::net6.0::LibraryTest.Tests.BorrowItem_ShouldAddItemToBorrowedItems_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2308A12E-A0CA-4519-9902-7FF1AC363A2E::net6.0::LibraryTest.Tests.ReturnItem_ShouldSetReturnDate_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8c66a829_002D8c75_002D4095_002Db6b6_002D7872e1ae661b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BorrowItem_ShouldNotExceedBorrowCapacity_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2308A12E-A0CA-4519-9902-7FF1AC363A2E::net6.0::LibraryTest.Tests.BorrowItem_ShouldNotExceedBorrowCapacity_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d0b2c6b9_002D9511_002D44ea_002Da338_002D4f207aadc80d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BorrowItem_ShouldNotExceedBorrowCapacity" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2308A12E-A0CA-4519-9902-7FF1AC363A2E::net6.0::LibraryTest.Tests.BorrowItem_ShouldAddItemToBorrowedItems_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2308A12E-A0CA-4519-9902-7FF1AC363A2E::net6.0::LibraryTest.Tests.ReturnItem_ShouldSetReturnDate_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2308A12E-A0CA-4519-9902-7FF1AC363A2E::net6.0::LibraryTest.Tests.BorrowItem_ShouldNotExceedBorrowCapacity_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f7b6224b_002D29ea_002D40e1_002D8837_002De7ded452a73c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BorrowItem_ShouldNotExceedBorrowCapacity_Test #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2308A12E-A0CA-4519-9902-7FF1AC363A2E::net6.0::LibraryTest.Tests.BorrowItem_ShouldNotExceedBorrowCapacity_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
